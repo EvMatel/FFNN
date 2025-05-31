@@ -1,0 +1,7 @@
+autograd
+matplotlib
+scikit-learn
+scikit-plot
+seaborn
+ucimlrepo
+pandas
